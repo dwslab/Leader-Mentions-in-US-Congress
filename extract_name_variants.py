@@ -8,6 +8,7 @@ import re
 import sys
 
 
+
 """
 Read a csv file with person names (first_name(s) last_name: William Ofori Atta)
 and election dates and return a dictionary with all names listed for each date
