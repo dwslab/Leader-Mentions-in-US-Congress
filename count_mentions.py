@@ -13,6 +13,7 @@ from tinydb import TinyDB, Query
 import sys
 
 
+
 """
 We have a subset of speeches where we found string matches for mentions of country names.
 We now need to validate those matches, filter out noise and count the remaining mentions:
